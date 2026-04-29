@@ -40,7 +40,7 @@ Hệ thống dự báo tái nhập viện (Tiêu hóa & Tuần hoàn) sử dụn
 ## 💻 Hướng dẫn sử dụng  
 ### 1. Clone Repository  
 ```python
-git clone https://github.com/trdphatphattran/Pyspark-lda-news-classification.git](https://github.com/trdphatphattran/ML-in-real-estate.git
+git clone [[https://github.com/trdphatphattran/Pyspark-lda-news-classification.git](https://github.com/trdphatphattran/ML-in-real-estate.git](https://github.com/trdphatphattran/Digestive-Circulatory-Readmission-AI.git)](https://github.com/trdphatphattran/Digestive-Circulatory-Readmission-AI.git)
 cd ML-in-real-estate
 ```
 ### 2. Cài thư viện  
