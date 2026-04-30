@@ -1,0 +1,654 @@
+﻿ID,Tên bệnh nhân,Tuổi,Bệnh,Bệnh nền,Số lần nhập viện,Nghiêm trọng,SoLanNhapVienGoc,tai_nhap_vien
+1,Minho,69,Rối loạn tiêu hóa,Không,4,0,4,1.0
+2,Galaxy,63,Viêm đại tràng,Đái tháo đường,5,1,5,1.0
+3,Suneo,62,Suy tim,Viêm mũi dị ứng,1,0,1,0.0
+4,Ramsey,78,Ung thư gan,Đái tháo đường,2,1,2,1.0
+5,Simon,51,Viêm dạ dày,Hen phế quản,3,0,3,0.0
+6,Karen,48,Suy tim,Viêm xoang,2,1,2,1.0
+7,Rolex,75,Trĩ,Huyết áp cao,3,0,3,0.0
+8,Watanabe,51,Polyp đại tràng,Đau dạ dày,4,0,4,1.0
+9,Vuong Tuan,46,Giãn tĩnh mạch,Đau nửa đầu,2,0,2,0.0
+10,Mai Thanh,79,Nhồi máu cơ tim,Tiểu đường,4,1,4,1.0
+11,Toyota,60,Tai biến mạch máu não,Hen phế quản,1,1,1,1.0
+12,Le Bao,51,Trĩ,Rối loạn lo âu,5,0,5,1.0
+13,Choi Seung Min,70,Giãn tĩnh mạch,Thoái hóa khớp,5,0,5,1.0
+14,Wang Wei,59,Suy tim,Huyết áp cao,5,1,5,1.0
+15,David,55,Viêm đại tràng,Đau dạ dày,2,0,2,0.0
+16,Timber,49,Viêm cơ tim,Đau dạ dày,4,1,4,1.0
+17,Simon,51,Trào ngược dạ dày,Hen phế quản,3,0,3,0.0
+18,Pham Van,53,Polyp đại tràng,Đau dạ dày,1,0,1,0.0
+19,Johnson,45,Trào ngược dạ dày,Rối loạn lo âu,2,0,2,0.0
+20,Rose,55,Ung thư dạ dày,Đau nửa đầu,4,1,4,1.0
+21,Smith,44,Rối loạn tiêu hóa,Huyết áp cao,4,0,4,1.0
+22,Daniel,45,Giãn tĩnh mạch,Viêm xoang,3,0,3,0.0
+23,Cali,50,Trào ngược dạ dày,Xơ gan,2,0,2,0.0
+24,Nguyen Nhat ,72,Thiếu máu,Đau nửa đầu,5,0,5,1.0
+25,Brandon,70,Trĩ,Viêm xoang,2,0,2,0.0
+26,Nguyen Han,45,Hở van tim,Gout,1,0,1,0.0
+27,Momo,53,Ung thư dạ dày,Gout,1,1,1,1.0
+28,Bui Viet,50,Trào ngược dạ dày,Rối loạn lo âu,4,0,4,1.0
+29,Ito,53,Trĩ,Xơ gan,4,1,4,1.0
+30,Elsa,56,Viêm dạ dày,Tiểu đường,3,0,3,0.0
+31,Beijing,40,Viêm đại tràng,Rối loạn lo âu,1,0,1,0.0
+32,Hoang Thu,55,Rối loạn tiêu hóa,Đau nửa đầu,4,0,4,1.0
+33,Guangzhou,71,Trào ngược dạ dày,Ho,5,0,5,1.0
+34,Momo,53,Rối loạn tiêu hóa,Gout,1,0,1,0.0
+35,Green,76,Viêm cơ tim,Hen phế quản,2,1,2,1.0
+36,Lionel,65,Xơ vữa động mạch,Hen phế quản,4,1,4,1.0
+37,Nakamura,55,Thiếu máu,Xơ gan,3,0,3,0.0
+38,William,66,Viêm gan,Tiểu đường,4,1,4,1.0
+39,Watanabe,51,Ung thư đại tràng,Không,3,1,3,1.0
+40,Chen Hao,51,Thiếu máu,Viêm mũi dị ứng,3,1,3,1.0
+41,Ricardo,49,Ung thư đại tràng,Thoái hóa khớp,3,1,3,1.0
+42,Minamino,52,Thiếu máu,Đái tháo đường,5,1,5,1.0
+43,Juliet,61,Ung thư dạ dày,Đau dạ dày,1,1,1,1.0
+44,Watanabe,51,Rối loạn tiêu hóa,Không,5,0,5,1.0
+45,Blue,77,Viêm gan,Đau nửa đầu,3,1,3,1.0
+46,Kai,48,Rối loạn tiêu hóa,Viêm xoang,4,0,4,1.0
+47,Martin,42,Ung thư đại tràng,Ho,4,1,4,1.0
+48,Phan Dinh J,36,Ung thư gan,Đau dạ dày,3,1,3,1.0
+49,Sony,46,Rối loạn nhịp tim,Ho,4,0,4,1.0
+50,Maris,47,Rối loạn tiêu hóa,Không,2,0,2,0.0
+51,Michael,64,Nhồi máu cơ tim,Viêm mũi dị ứng,1,1,1,1.0
+52,Lisa,44,Viêm đại tràng,Không,5,0,5,1.0
+53,Xu Xin,65,Rối loạn tiêu hóa,Hen phế quản,1,0,1,0.0
+54,Wilson,77,Tai biến mạch máu não,Đái tháo đường,2,1,2,1.0
+55,Sakura,58,Nhồi máu cơ tim,Đau nửa đầu,5,1,5,1.0
+56,Alan,67,Rối loạn tiêu hóa,Đau dạ dày,5,1,5,1.0
+57,Myra,74,Viêm cơ tim,Hen phế quản,1,1,1,1.0
+58,Charles,41,Xơ vữa động mạch,Hen phế quản,1,0,1,0.0
+59,Marja,61,Viêm cơ tim,Huyết áp cao,2,1,2,1.0
+60,Wu Lei,62,Trĩ,Không,1,0,1,0.0
+61,Arthur,68,Tai biến mạch máu não,Huyết áp cao,1,1,1,1.0
+62,Cao Bang,60,Viêm đại tràng,Không,3,1,3,1.0
+63,Naruto,66,Trĩ,Tiểu đường,2,0,2,0.0
+64,Kim Jong ,41,Rối loạn nhịp tim,Đau nửa đầu,1,0,1,0.0
+65,Do Minh ,82,Hở van tim,Hen phế quản,5,1,5,1.0
+66,Tran Quang,78,Viêm dạ dày,Tiểu đường,5,1,5,1.0
+67,Smith,44,Viêm đại tràng,Huyết áp cao,4,0,4,1.0
+68,Lee Seojin,76,Rối loạn tiêu hóa,Tiểu đường,5,1,5,1.0
+69,Pikachu,65,Ung thư dạ dày,Không,2,1,2,1.0
+70,Nari,73,Ung thư đại tràng,Đái tháo đường,2,1,2,1.0
+71,Susan,69,Tai biến mạch máu não,Hen phế quản,5,1,5,1.0
+72,Mary,63,Trào ngược dạ dày,Xơ gan,5,1,5,1.0
+73,Luis,66,Trĩ,Đái tháo đường,4,0,4,1.0
+74,Hari,74,Ung thư đại tràng,Thoái hóa khớp,1,1,1,1.0
+75,Chen Hao,51,Xơ vữa động mạch,Viêm mũi dị ứng,1,0,1,0.0
+76,Arthur,68,Động mạch vành,Huyết áp cao,5,1,5,1.0
+77,Javier,67,Giãn tĩnh mạch,Viêm xoang,4,0,4,1.0
+78,Hyundai,61,Thiếu máu,Huyết áp cao,3,0,3,0.0
+79,Luis,66,Viêm dạ dày,Đái tháo đường,2,0,2,0.0
+80,James,48,Ung thư dạ dày,Không,4,1,4,1.0
+81,Do Thi Dung,58,Tai biến mạch máu não,Huyết áp cao,2,1,2,1.0
+82,Dam Vinh,45,Trào ngược dạ dày,Đau dạ dày,1,0,1,0.0
+83,Bin,72,Thiếu máu,Đái tháo đường,3,0,3,0.0
+84,William,66,Thiếu máu,Tiểu đường,2,0,2,0.0
+85,Robert,77,Tai biến mạch máu não,Đau dạ dày,1,1,1,1.0
+86,Mai Thanh,79,Động mạch vành,Tiểu đường,3,1,3,1.0
+87,Juliet,61,Trào ngược dạ dày,Đau dạ dày,1,1,1,1.0
+88,Hoang Thu,55,Giãn tĩnh mạch,Đau nửa đầu,4,0,4,1.0
+89,Hayate,56,Động mạch vành,Đau nửa đầu,3,1,3,1.0
+90,Sizuka,63,Hở van tim,Tiểu đường,4,1,4,1.0
+91,Phan Dinh J,36,Viêm cơ tim,Đau dạ dày,1,1,1,1.0
+92,Ruiz,58,Thiếu máu,Đau dạ dày,2,0,2,0.0
+93,Ha Giang,59,Nhồi máu cơ tim,Viêm xoang,2,1,2,1.0
+94,Kevin,44,Nhồi máu cơ tim,Gout,5,1,5,1.0
+95,Rose,55,Rối loạn tiêu hóa,Đau nửa đầu,2,0,2,0.0
+96,Veera,57,Ung thư gan,Xơ gan,1,1,1,1.0
+97,Yuna,72,Tai biến mạch máu não,Xơ gan,3,1,3,1.0
+98,Do Thi Dung,58,Nhồi máu cơ tim,Huyết áp cao,1,1,1,1.0
+99,Hugo,69,Suy tim,Gout,4,1,4,1.0
+100,Han Dohyun,69,Giãn tĩnh mạch,Viêm mũi dị ứng,4,0,4,1.0
+101,Chaien,61,Ung thư đại tràng,Ho,4,1,4,1.0
+102,Suneo,62,Nhồi máu cơ tim,Viêm mũi dị ứng,3,1,3,1.0
+103,James,48,Trào ngược dạ dày,Không,2,0,2,0.0
+104,Javier,67,Viêm đại tràng,Thoái hóa khớp,5,1,5,1.0
+105,Emily,58,Viêm dạ dày,Ho,2,0,2,0.0
+106,Suzuki,54,Rối loạn tiêu hóa,Xơ gan,5,0,5,1.0
+107,Violet,83,Giãn tĩnh mạch,Thoái hóa khớp,2,1,2,1.0
+108,Houston,68,Viêm cơ tim,Gout,1,1,1,1.0
+109,Bon,67,Ung thư dạ dày,Không,5,1,5,1.0
+110,Jack,75,Rối loạn tiêu hóa,Huyết áp cao,4,0,4,1.0
+111,Hoang Van E,54,Thiếu máu,Hen phế quản,4,0,4,1.0
+112,Le Bao,51,Viêm gan,Rối loạn lo âu,2,1,2,1.0
+113,Li Fang,60,Viêm gan,Đau dạ dày,1,0,1,0.0
+114,Diego,65,Viêm gan,Không,4,1,4,1.0
+115,Li Na,54,Ung thư dạ dày,Rối loạn lo âu,1,1,1,1.0
+116,Linda,41,Động mạch vành,Đau dạ dày,4,1,4,1.0
+117,Kim Tae Hwan,73,Nhồi máu cơ tim,Huyết áp cao,1,1,1,1.0
+118,Tokyo,80,Viêm cơ tim,Huyết áp cao,2,1,2,1.0
+119,Suho,68,Trĩ,Tiểu đường,3,1,3,1.0
+120,Kai,48,Trĩ,Viêm xoang,5,0,5,1.0
+121,Lee Sang Min,72,Viêm gan,Không,4,1,4,1.0
+122,Nguyen Thanh,71,Ung thư dạ dày,Tiểu đường,4,1,4,1.0
+123,Nguyen Thanh,71,Rối loạn tiêu hóa,Tiểu đường,5,1,5,1.0
+124,Aoi,57,Viêm cơ tim,Gout,1,1,1,1.0
+125,Nguyen Hoang,70,Viêm cơ tim,Ho,2,1,2,1.0
+126,Yuna,72,Trào ngược dạ dày,Đái tháo đường,1,0,1,0.0
+127,Ngo Thi H,67,Giãn tĩnh mạch,Tiểu đường,4,1,4,1.0
+128,Vo Thi F,60,Thiếu máu,Ho,3,0,3,0.0
+129,Yang Li,63,Ung thư đại tràng,Gout,3,1,3,1.0
+130,Nguyen Quoc,47,Polyp đại tràng,Hen phế quản,1,0,1,0.0
+131,Sadio,45,Giãn tĩnh mạch,Đái tháo đường,3,1,3,1.0
+132,Li Lei,64,Viêm cơ tim,Thoái hóa khớp,1,1,1,1.0
+133,Bui Viet,50,Viêm dạ dày,Rối loạn lo âu,4,0,4,1.0
+134,Park Jisoo,74,Ung thư dạ dày,Tiểu đường,3,1,3,1.0
+135,Hyundai,61,Giãn tĩnh mạch,Huyết áp cao,4,1,4,1.0
+136,Nguyen Thanh,71,Viêm đại tràng,Tiểu đường,1,1,1,1.0
+137,Mitchell,44,Trĩ,Đau dạ dày,1,0,1,0.0
+138,Wang Wei,59,Rối loạn nhịp tim,Huyết áp cao,1,0,1,0.0
+139,Emily,58,Polyp đại tràng,Đái tháo đường,3,1,3,1.0
+140,Shanghai,57,Suy tim,Đau nửa đầu,2,1,2,1.0
+141,Aoi,57,Trĩ,Gout,5,0,5,1.0
+142,Lang Son,78,Thiếu máu,Huyết áp cao,4,0,4,1.0
+143,Susan,69,Suy tim,Huyết áp cao,2,0,2,0.0
+144,Yellow,78,Giãn tĩnh mạch,Xơ gan,1,0,1,0.0
+145,Chaien,61,Viêm đại tràng,Ho,5,1,5,1.0
+146,Tran Van C,56,Viêm gan,Xơ gan,2,1,2,1.0
+147,Rolex,75,Rối loạn tiêu hóa,Huyết áp cao,3,0,3,0.0
+148,Joseph,40,Trào ngược dạ dày,Gout,4,0,4,1.0
+149,Jack,75,Viêm dạ dày,Huyết áp cao,3,1,3,1.0
+150,Goku,67,Xơ vữa động mạch,Huyết áp cao,1,1,1,1.0
+151,Mina ,55,Viêm đại tràng,Đau dạ dày,1,0,1,0.0
+152,Violet,83,Thiếu máu,Thoái hóa khớp,5,1,5,1.0
+153,Rolex,75,Viêm dạ dày,Huyết áp cao,3,0,3,0.0
+154,Lisa,44,Ung thư đại tràng,Không,4,1,4,1.0
+155,Suho,68,Polyp đại tràng,Tiểu đường,5,1,5,1.0
+156,Purple,81,Trĩ,Hen phế quản,1,0,1,0.0
+157,Samsung,62,Rối loạn tiêu hóa,Tiểu đường,5,0,5,1.0
+158,Nha Trang,79,Xơ vữa động mạch,Huyết áp cao,3,1,3,1.0
+159,Red,75,Giãn tĩnh mạch,Không,2,0,2,0.0
+160,Suneo,62,Hở van tim,Viêm mũi dị ứng,1,0,1,0.0
+161,Sizuka,63,Viêm dạ dày,Huyết áp cao,5,1,5,1.0
+162,Bin,72,Nhồi máu cơ tim,Đái tháo đường,1,1,1,1.0
+163,Li Fang,60,Ung thư gan,Đau dạ dày,4,1,4,1.0
+164,Patrik,50,Viêm cơ tim,Viêm mũi dị ứng,1,0,1,0.0
+165,Ai Kesen,67,Trào ngược dạ dày,Đau dạ dày,5,1,5,1.0
+166,Tran Thanh,73,Rối loạn tiêu hóa,Huyết áp cao,2,0,2,0.0
+167,Hong Chul,71,Giãn tĩnh mạch,Viêm mũi dị ứng,4,0,4,1.0
+168,Beijing,40,Trào ngược dạ dày,Rối loạn lo âu,1,0,1,0.0
+169,Tran Van C,56,Giãn tĩnh mạch,Xơ gan,4,0,4,1.0
+170,Rouie,58,Thiếu máu,Đái tháo đường,3,0,3,0.0
+171,Romeo,60,Trào ngược dạ dày,Đau nửa đầu,2,0,2,0.0
+172,Bon,67,Rối loạn tiêu hóa,Không,1,0,1,0.0
+173,Suzuki,54,Ung thư dạ dày,Xơ gan,2,1,2,1.0
+174,Nguyen Nhat ,72,Polyp đại tràng,Đau nửa đầu,4,1,4,1.0
+175,Junior,46,Ung thư dạ dày,Đau nửa đầu,1,1,1,1.0
+176,Vu Thanh,79,Trĩ,Xơ gan,3,0,3,0.0
+177,Natalya,79,Tai biến mạch máu não,Huyết áp cao,4,1,4,1.0
+178,Lee Seojin,76,Thiếu máu,Tiểu đường,2,0,2,0.0
+179,Joseph,40,Ung thư gan,Gout,2,1,2,1.0
+180,Sadio,45,Thiếu máu,Đái tháo đường,5,1,5,1.0
+181,Ruiz,58,Viêm cơ tim,Đau dạ dày,4,0,4,1.0
+182,Tran Van C,56,Rối loạn tiêu hóa,Xơ gan,3,0,3,0.0
+183,Lauriel,57,Trào ngược dạ dày,Gout,4,0,4,1.0
+184,Michael,64,Động mạch vành,Viêm mũi dị ứng,4,1,4,1.0
+185,Li Lei,64,Rối loạn nhịp tim,Thoái hóa khớp,4,1,4,1.0
+186,Lim Nari,75,Polyp đại tràng,Xơ gan,3,1,3,1.0
+187,Nobita,59,Rối loạn nhịp tim,Tiểu đường,3,1,3,1.0
+188,Matthew,43,Xơ vữa động mạch,Ho,5,0,5,1.0
+189,Xu Xin,65,Viêm dạ dày,Viêm mũi dị ứng,1,0,1,0.0
+190,Javier,67,Trĩ,Thoái hóa khớp,4,1,4,1.0
+191,Lang Son,78,Viêm cơ tim,Huyết áp cao,3,1,3,1.0
+192,Nico,77,Rối loạn nhịp tim,Đái tháo đường,4,0,4,1.0
+193,Simon,51,Rối loạn tiêu hóa,Hen phế quản,3,0,3,0.0
+194,Hari,74,Viêm dạ dày,Thoái hóa khớp,3,0,3,0.0
+195,Yasuo,58,Thiếu máu,Không,2,0,2,0.0
+196,Blue,77,Trĩ,Đau nửa đầu,4,0,4,1.0
+197,Erling,50,Ung thư gan,Gout,2,1,2,1.0
+198,Shin,64,Rối loạn tiêu hóa,Huyết áp cao,5,0,5,1.0
+199,Cali,50,Viêm gan,Xơ gan,3,1,3,1.0
+200,Jessica,72,Ung thư gan,Đái tháo đường,5,1,5,1.0
+201,Do Minh ,82,Trào ngược dạ dày,Hen phế quản,3,0,3,0.0
+202,Elisa,79,Thiếu máu,Đau dạ dày,2,0,2,0.0
+203,Osaka,70,Viêm dạ dày,Đau dạ dày,4,1,4,1.0
+204,Tokyo,80,Nhồi máu cơ tim,Huyết áp cao,3,1,3,1.0
+205,Phan Dinh J,36,Viêm đại tràng,Đau dạ dày,5,1,5,1.0
+206,Jollibee,58,Rối loạn tiêu hóa,Viêm mũi dị ứng,1,0,1,0.0
+207,Han Dohyun,69,Ung thư dạ dày,Viêm mũi dị ứng,5,1,5,1.0
+208,Sizuka,63,Polyp đại tràng,Viêm mũi dị ứng,5,0,5,1.0
+209,Ninh Binh,56,Xơ vữa động mạch,Rối loạn lo âu,3,1,3,1.0
+210,Ai Kesen,67,Động mạch vành,Đau dạ dày,5,1,5,1.0
+211,Mikami,50,Ung thư dạ dày,Hen phế quản,2,1,2,1.0
+212,Momo,53,Trào ngược dạ dày,Gout,5,1,5,1.0
+213,Ninh Binh,56,Hở van tim,Rối loạn lo âu,2,0,2,0.0
+214,Nguyen Han,45,Động mạch vành,Gout,2,1,2,1.0
+215,Lionel,65,Hở van tim,Hen phế quản,2,1,2,1.0
+216,Matthew,43,Rối loạn tiêu hóa,Ho,1,0,1,0.0
+217,Bin,72,Viêm cơ tim,Đái tháo đường,4,1,4,1.0
+218,Galaxy,63,Polyp đại tràng,Đái tháo đường,1,0,1,0.0
+219,Romeo,60,Viêm đại tràng,Đau nửa đầu,1,0,1,0.0
+220,Michael,64,Suy tim,Viêm mũi dị ứng,2,1,2,1.0
+221,Bui Van I,51,Ung thư dạ dày,Xơ gan,3,1,3,1.0
+222,Timber,49,Giãn tĩnh mạch,Đau dạ dày,5,1,5,1.0
+223,Ninh Binh,56,Nhồi máu cơ tim,Rối loạn lo âu,3,1,3,1.0
+224,Yasuo,58,Hở van tim,Xơ gan,3,1,3,1.0
+225,Ha Giang,59,Động mạch vành,Viêm xoang,3,0,3,0.0
+226,Lamine,57,Động mạch vành,Đau nửa đầu,3,1,3,1.0
+227,Tran Thanh,73,Ung thư gan,Huyết áp cao,3,1,3,1.0
+228,Mark,78,Viêm đại tràng,Đau nửa đầu,4,1,4,1.0
+229,Nari,73,Rối loạn tiêu hóa,Đái tháo đường,1,0,1,0.0
+230,Enzo,81,Rối loạn nhịp tim,Đau nửa đầu,2,0,2,0.0
+231,Kim Tae Hwan,73,Thiếu máu,Huyết áp cao,2,1,2,1.0
+232,Jayson,82,Suy tim,Hen phế quản,2,1,2,1.0
+233,Doraemon,60,Rối loạn tiêu hóa,Đau nửa đầu,2,0,2,0.0
+234,Mary,63,Suy tim,Xơ gan,3,1,3,1.0
+235,Myra,74,Trào ngược dạ dày,Hen phế quản,2,0,2,0.0
+236,Yu Dabao,53,Rối loạn tiêu hóa,Ho,2,1,2,1.0
+237,Rikka,52,Trào ngược dạ dày,Đau dạ dày,3,1,3,1.0
+238,Arthur,68,Suy tim,Huyết áp cao,5,1,5,1.0
+239,Gordon,79,Viêm dạ dày,Đái tháo đường,4,1,4,1.0
+240,Park Jisoo,74,Viêm đại tràng,Tiểu đường,3,0,3,0.0
+241,Nico,77,Xơ vữa động mạch,Đau nửa đầu,4,1,4,1.0
+242,Wilson,77,Hở van tim,Rối loạn lo âu,4,1,4,1.0
+243,Sarah,75,Trĩ,Đau nửa đầu,3,1,3,1.0
+244,Ricardo,49,Viêm đại tràng,Thoái hóa khớp,4,1,4,1.0
+245,Trung Quoc,67,Rối loạn tiêu hóa,Thoái hóa khớp,2,1,2,1.0
+246,Alice,49,Rối loạn nhịp tim,Viêm mũi dị ứng,3,1,3,1.0
+247,Shin,64,Rối loạn nhịp tim,Huyết áp cao,1,0,1,0.0
+248,Li Fang,60,Rối loạn tiêu hóa,Đau dạ dày,1,0,1,0.0
+249,Susan,69,Động mạch vành,Viêm mũi dị ứng,4,0,4,1.0
+250,Smith,44,Thiếu máu,Huyết áp cao,5,1,5,1.0
+251,Le Thi B,71,Polyp đại tràng,Xơ gan,5,1,5,1.0
+252,Trung Quoc,67,Viêm dạ dày,Thoái hóa khớp,3,0,3,0.0
+253,Sadio,45,Viêm dạ dày,Đái tháo đường,5,1,5,1.0
+254,Dam Vinh,45,Trĩ,Đau dạ dày,2,0,2,0.0
+255,Elisa,79,Tai biến mạch máu não,Đau dạ dày,5,1,5,1.0
+256,Pham Van,53,Viêm dạ dày,Ho,4,1,4,1.0
+257,Nobita,59,Nhồi máu cơ tim,Không,3,1,3,1.0
+258,Hugo,69,Xơ vữa động mạch,Gout,3,1,3,1.0
+259,Suzuki,54,Viêm dạ dày,Xơ gan,4,0,4,1.0
+260,Kim Jong ,41,Thiếu máu,Đau nửa đầu,4,0,4,1.0
+261,Nobita,59,Hở van tim,Rối loạn lo âu,1,0,1,0.0
+262,Joseph,40,Viêm đại tràng,Gout,3,1,3,1.0
+263,Nhu Kha,71,Viêm đại tràng,Không,4,0,4,1.0
+264,Sizuka,63,Viêm gan,Huyết áp cao,5,1,5,1.0
+265,Orange,82,Hở van tim,Ho,1,0,1,0.0
+266,Annette,59,Nhồi máu cơ tim,Ho,3,1,3,1.0
+267,Ai Kesen,67,Rối loạn nhịp tim,Đau dạ dày,5,1,5,1.0
+268,Smith,44,Polyp đại tràng,Huyết áp cao,4,1,4,1.0
+269,Ederson,55,Trĩ,Viêm mũi dị ứng,3,1,3,1.0
+270,Mai Thanh,79,Thiếu máu,Tiểu đường,2,1,2,1.0
+271,Tran Nhu,55,Ung thư đại tràng,Xơ gan,5,0,5,1.0
+272,Osaka,70,Thiếu máu,Đau dạ dày,1,0,1,0.0
+273,Rin,51,Polyp đại tràng,Rối loạn lo âu,1,0,1,0.0
+274,Joao,49,Viêm cơ tim,Không,4,1,4,1.0
+275,Yang Li,63,Polyp đại tràng,Không,1,0,1,0.0
+276,Samsung,62,Trào ngược dạ dày,Tiểu đường,3,0,3,0.0
+277,Galaxy,63,Ung thư đại tràng,Đái tháo đường,1,1,1,1.0
+278,Wu Xi,66,Động mạch vành,Không,1,1,1,1.0
+279,White,79,Ung thư dạ dày,Viêm mũi dị ứng,2,1,2,1.0
+280,Khoa Khoa,80,Viêm gan,Tiểu đường,1,0,1,0.0
+281,Nhu Kha,71,Trĩ,Không,2,0,2,0.0
+282,Hong Chul,71,Viêm cơ tim,Viêm mũi dị ứng,3,1,3,1.0
+283,Wu Lei,62,Xơ vữa động mạch,Không,4,1,4,1.0
+284,John,70,Ung thư đại tràng,Hen phế quản,2,1,2,1.0
+285,Wilson,77,Suy tim,Đái tháo đường,3,1,3,1.0
+286,Cali,50,Rối loạn tiêu hóa,Xơ gan,2,0,2,0.0
+287,Osaka,70,Ung thư dạ dày,Đau dạ dày,2,1,2,1.0
+288,Sakura,58,Rối loạn nhịp tim,Đau nửa đầu,3,0,3,0.0
+289,Hari,74,Thiếu máu,Thoái hóa khớp,5,0,5,1.0
+290,Hugo,69,Động mạch vành,Gout,3,1,3,1.0
+291,Nakamura,55,Xơ vữa động mạch,Viêm mũi dị ứng,1,1,1,1.0
+292,Hugo,69,Hở van tim,Gout,2,0,2,0.0
+293,Tran Long,72,Giãn tĩnh mạch,Đái tháo đường,4,0,4,1.0
+294,Liu Yang,52,Rối loạn nhịp tim,Thoái hóa khớp,2,0,2,0.0
+295,Nguyen Van A,42,Ung thư gan,Viêm xoang,5,1,5,1.0
+296,Lauriel,57,Viêm đại tràng,Gout,2,1,2,1.0
+297,Rikka,52,Viêm dạ dày,Đau dạ dày,2,0,2,0.0
+298,Jollibee,58,Viêm dạ dày,Viêm mũi dị ứng,3,0,3,0.0
+299,Florentino,80,Rối loạn tiêu hóa,Thoái hóa khớp,3,0,3,0.0
+300,Shanghai,57,Rối loạn nhịp tim,Đau nửa đầu,1,0,1,0.0
+301,Iggy,70,Hở van tim,Tiểu đường,2,0,2,0.0
+302,Linda,41,Viêm gan,Gout,4,1,4,1.0
+303,Guangzhou,71,Viêm đại tràng,Ho,3,0,3,0.0
+304,Lily,76,Viêm cơ tim,Huyết áp cao,5,1,5,1.0
+305,Green,76,Ung thư đại tràng,Hen phế quản,1,1,1,1.0
+306,John,70,Viêm dạ dày,Hen phế quản,5,1,5,1.0
+307,Gordon,79,Hở van tim,Đái tháo đường,5,1,5,1.0
+308,Doraemon,60,Ung thư dạ dày,Đau nửa đầu,1,1,1,1.0
+309,Shenzhen,62,Rối loạn tiêu hóa,Xơ gan,3,1,3,1.0
+310,Obama,64,Viêm dạ dày,Viêm xoang,4,0,4,1.0
+311,Violet,83,Polyp đại tràng,Thoái hóa khớp,1,0,1,0.0
+312,Hong Chul,71,Tai biến mạch máu não,Viêm mũi dị ứng,4,1,4,1.0
+313,Jack,75,Ung thư dạ dày,Huyết áp cao,4,1,4,1.0
+314,Trung Quoc,67,Giãn tĩnh mạch,Thoái hóa khớp,1,1,1,1.0
+315,Antonio,70,Rối loạn tiêu hóa,Huyết áp cao,1,0,1,0.0
+316,Gabriel,47,Tai biến mạch máu não,Không,4,1,4,1.0
+317,Gabriel,47,Trĩ,Không,4,0,4,1.0
+318,Yellow,78,Hở van tim,Tiểu đường,5,1,5,1.0
+319,Lamine,57,Tai biến mạch máu não,Đau nửa đầu,2,1,2,1.0
+320,Cao Bang,60,Ung thư đại tràng,Không,1,1,1,1.0
+321,Kai,48,Ung thư gan,Đau nửa đầu,1,1,1,1.0
+322,Fang Hao,61,Tai biến mạch máu não,Xơ gan,3,1,3,1.0
+323,Khoa Khoa,80,Trào ngược dạ dày,Tiểu đường,5,1,5,1.0
+324,Nguyen Nhat ,72,Rối loạn nhịp tim,Đau nửa đầu,4,1,4,1.0
+325,Vu Thanh,79,Viêm cơ tim,Xơ gan,2,1,2,1.0
+326,Alan,67,Ung thư gan,Đau dạ dày,1,0,1,0.0
+327,Romeo,60,Giãn tĩnh mạch,Đau nửa đầu,5,0,5,1.0
+328,Lorenzo,50,Hở van tim,Viêm mũi dị ứng,2,0,2,0.0
+329,Patrik,50,Động mạch vành,Viêm mũi dị ứng,4,1,4,1.0
+330,Florentino,80,Thiếu máu,Huyết áp cao,1,0,1,0.0
+331,Houston,68,Hở van tim,Gout,2,0,2,0.0
+332,Cao Bang,60,Giãn tĩnh mạch,Không,2,0,2,0.0
+333,Shenzhen,62,Viêm dạ dày,Xơ gan,1,0,1,0.0
+334,Lorenzo,50,Nhồi máu cơ tim,Viêm xoang,2,1,2,1.0
+335,Kevin,44,Tai biến mạch máu não,Viêm xoang,4,1,4,1.0
+336,Do Thi,54,Viêm gan,Không,1,1,1,1.0
+337,Minamino,52,Viêm gan,Đái tháo đường,1,0,1,0.0
+338,Kim Jong ,41,Xơ vữa động mạch,Đau nửa đầu,3,1,3,1.0
+339,Enzo,81,Ung thư gan,Hen phế quản,4,1,4,1.0
+340,Martin,42,Viêm đại tràng,Ho,3,1,3,1.0
+341,Minho,69,Thiếu máu,Không,3,0,3,0.0
+342,Phillip,43,Viêm cơ tim,Viêm mũi dị ứng,4,1,4,1.0
+343,Bui Viet,50,Nhồi máu cơ tim,Rối loạn lo âu,4,1,4,1.0
+344,Yasuo,58,Giãn tĩnh mạch,Thoái hóa khớp,3,0,3,0.0
+345,Texas,76,Rối loạn nhịp tim,Hen phế quản,2,0,2,0.0
+346,Obama,64,Ung thư gan,Viêm xoang,5,1,5,1.0
+347,Lim Nari,75,Rối loạn tiêu hóa,Xơ gan,5,0,5,1.0
+348,Nobita,59,Xơ vữa động mạch,Thoái hóa khớp,2,0,2,0.0
+349,Kyoto,66,Tai biến mạch máu não,Thoái hóa khớp,3,1,3,1.0
+350,Simon,51,Trĩ,Hen phế quản,1,0,1,0.0
+351,Krixi,60,Viêm cơ tim,Hen phế quản,5,1,5,1.0
+352,Chaien,61,Rối loạn tiêu hóa,Ho,3,0,3,0.0
+353,Johnson,45,Viêm dạ dày,Rối loạn lo âu,1,0,1,0.0
+354,Natalya,79,Thiếu máu,Huyết áp cao,1,0,1,0.0
+355,Lamine,57,Trĩ,Đau nửa đầu,5,1,5,1.0
+356,Taemin,70,Trĩ,Tiểu đường,1,0,1,0.0
+357,Washington,74,Ung thư dạ dày,Tiểu đường,2,1,2,1.0
+358,Vo Kim,80,Tai biến mạch máu não,Tiểu đường,2,1,2,1.0
+359,Mina ,55,Ung thư dạ dày,Đau dạ dày,3,1,3,1.0
+360,Bui Van I,51,Polyp đại tràng,Xơ gan,4,1,4,1.0
+361,Rouie,58,Rối loạn nhịp tim,Đái tháo đường,1,0,1,0.0
+362,Do Thi,54,Ung thư gan,Không,1,1,1,1.0
+363,Jayson,82,Động mạch vành,Hen phế quản,3,1,3,1.0
+364,Antonio,70,Ung thư đại tràng,Huyết áp cao,1,1,1,1.0
+365,Jessica,72,Trào ngược dạ dày,Đái tháo đường,3,0,3,0.0
+366,Park Jihoon,68,Ung thư đại tràng,Huyết áp cao,2,1,2,1.0
+367,Lotteria,65,Giãn tĩnh mạch,Thoái hóa khớp,3,0,3,0.0
+368,Toyota,60,Suy tim,Viêm mũi dị ứng,2,1,2,1.0
+369,Rose,55,Viêm đại tràng,Đau nửa đầu,5,0,5,1.0
+370,Soojin,71,Ung thư gan,Huyết áp cao,1,1,1,1.0
+371,Nghe An,82,Polyp đại tràng,Đái tháo đường,3,1,3,1.0
+372,Sergio,69,Ung thư đại tràng,Huyết áp cao,3,1,3,1.0
+373,Enzo,81,Polyp đại tràng,Đau nửa đầu,2,0,2,0.0
+374,Anthony,54,Trĩ,Xơ gan,5,0,5,1.0
+375,Ngo Thi H,67,Nhồi máu cơ tim,Huyết áp cao,3,1,3,1.0
+376,Hoa My,55,Rối loạn tiêu hóa,Rối loạn lo âu,1,0,1,0.0
+377,Nguyen Quoc,47,Trĩ,Hen phế quản,3,0,3,0.0
+378,Alan,67,Polyp đại tràng,Đau dạ dày,5,0,5,1.0
+379,Pikachu,65,Viêm dạ dày,Không,1,0,1,0.0
+380,Rikka,52,Ung thư dạ dày,Đau dạ dày,5,1,5,1.0
+381,Arthur,68,Viêm cơ tim,Huyết áp cao,3,1,3,1.0
+382,Lee Sang Min,72,Viêm dạ dày,Không,2,0,2,0.0
+383,Sony,46,Động mạch vành,Ho,4,1,4,1.0
+384,Li Na,54,Xơ vữa động mạch,Rối loạn lo âu,3,1,3,1.0
+385,Mary,63,Trĩ,Xơ gan,4,1,4,1.0
+386,Tran Thanh,73,Thiếu máu,Huyết áp cao,1,0,1,0.0
+387,Orange,82,Thiếu máu,Đau nửa đầu,4,0,4,1.0
+388,Minho,69,Trào ngược dạ dày,Không,4,0,4,1.0
+389,Pham Van,53,Rối loạn tiêu hóa,Ho,1,0,1,0.0
+390,Leo,82,Nhồi máu cơ tim,Thoái hóa khớp,5,1,5,1.0
+391,Do Thi Dung,58,Trào ngược dạ dày,Huyết áp cao,3,0,3,0.0
+392,Pablo,68,Tai biến mạch máu não,Gout,5,1,5,1.0
+393,Goku,67,Rối loạn nhịp tim,Huyết áp cao,1,0,1,0.0
+394,Pablo,68,Hở van tim,Gout,1,0,1,0.0
+395,Naruto,66,Polyp đại tràng,Tiểu đường,2,1,2,1.0
+396,Junior,46,Tai biến mạch máu não,Đau nửa đầu,2,1,2,1.0
+397,Elsa,56,Viêm đại tràng,Tiểu đường,5,1,5,1.0
+398,Pablo,68,Giãn tĩnh mạch,Gout,3,1,3,1.0
+399,Marja,61,Xơ vữa động mạch,Huyết áp cao,2,1,2,1.0
+400,Park Jisoo,74,Viêm gan,Tiểu đường,3,1,3,1.0
+401,Nico,77,Thiếu máu,Đái tháo đường,5,0,5,1.0
+402,Jennifer,77,Ung thư đại tràng,Đau nửa đầu,2,1,2,1.0
+403,Hoa My,55,Viêm đại tràng,Rối loạn lo âu,3,0,3,0.0
+404,Sarah,75,Polyp đại tràng,Đau nửa đầu,5,1,5,1.0
+405,Gabriel,47,Nhồi máu cơ tim,Không,4,1,4,1.0
+406,Kyoto,66,Động mạch vành,Thoái hóa khớp,5,0,5,1.0
+407,Thomas,80,Viêm gan,Đau nửa đầu,2,1,2,1.0
+408,Obama,64,Giãn tĩnh mạch,Xơ gan,3,0,3,0.0
+409,Kim Tae Hwan,73,Tai biến mạch máu não,Huyết áp cao,1,1,1,1.0
+410,Sony,46,Viêm cơ tim,Viêm mũi dị ứng,2,1,2,1.0
+411,Fran,64,Động mạch vành,Xơ gan,4,1,4,1.0
+412,Texas,76,Viêm dạ dày,Hen phế quản,5,1,5,1.0
+413,Gray,83,Nhồi máu cơ tim,Ho,1,1,1,1.0
+414,Tran Quang,78,Thiếu máu,Tiểu đường,4,1,4,1.0
+415,Houston,68,Giãn tĩnh mạch,Gout,5,1,5,1.0
+416,Mitchell,44,Ung thư dạ dày,Đau dạ dày,2,1,2,1.0
+417,Le Thi B,71,Ung thư đại tràng,Xơ gan,1,1,1,1.0
+418,Tony,56,Ung thư đại tràng,Gout,4,1,4,1.0
+419,Veera,57,Rối loạn tiêu hóa,Xơ gan,4,1,4,1.0
+420,Daniel,45,Viêm cơ tim,Đau nửa đầu,5,1,5,1.0
+421,Krixi,60,Tai biến mạch máu não,Hen phế quản,3,1,3,1.0
+422,Liu Yang,52,Xơ vữa động mạch,Thoái hóa khớp,3,1,3,1.0
+423,Joao,49,Xơ vữa động mạch,Không,3,1,3,1.0
+424,Goku,67,Tai biến mạch máu não,Huyết áp cao,2,1,2,1.0
+425,Rin,51,Viêm dạ dày,Rối loạn lo âu,3,0,3,0.0
+426,Washington,74,Viêm dạ dày,Tiểu đường,3,1,3,1.0
+427,Do Minh ,82,Suy tim,Hen phế quản,1,1,1,1.0
+428,Kitano,49,Thiếu máu,Đau nửa đầu,2,0,2,0.0
+429,Green,76,Động mạch vành,Hen phế quản,2,1,2,1.0
+430,Lauriel,57,Ung thư dạ dày,Gout,1,1,1,1.0
+431,Naruto,66,Viêm dạ dày,Tiểu đường,1,0,1,0.0
+432,Krixi,60,Rối loạn nhịp tim,Hen phế quản,1,0,1,0.0
+433,Nguyen Hoang,70,Giãn tĩnh mạch,Viêm xoang,1,0,1,0.0
+434,Mary,63,Viêm cơ tim,Xơ gan,3,1,3,1.0
+435,Le Bao,51,Ung thư gan,Rối loạn lo âu,2,1,2,1.0
+436,Washington,74,Trĩ,Tiểu đường,3,0,3,0.0
+437,Maris,47,Ung thư dạ dày,Không,5,1,5,1.0
+438,Phillip,43,Hở van tim,Tiểu đường,4,1,4,1.0
+439,Vu Thanh,79,Thiếu máu,Xơ gan,2,0,2,0.0
+440,Kevin,44,Thiếu máu,Viêm xoang,2,0,2,0.0
+441,Sakura,58,Suy tim,Đau nửa đầu,4,1,4,1.0
+442,Ruiz,58,Rối loạn nhịp tim,Đau dạ dày,4,1,4,1.0
+443,Toyota,60,Nhồi máu cơ tim,Hen phế quản,5,1,5,1.0
+444,Annette,59,Tai biến mạch máu não,Ho,1,1,1,1.0
+445,Jessica,72,Trĩ,Đái tháo đường,4,1,4,1.0
+446,Linda,41,Tai biến mạch máu não,Gout,4,1,4,1.0
+447,Lily,76,Hở van tim,Huyết áp cao,2,0,2,0.0
+448,Chaien,61,Trào ngược dạ dày,Ho,1,0,1,0.0
+449,Tran Quang,78,Ung thư dạ dày,Tiểu đường,3,1,3,1.0
+450,Tony,56,Viêm đại tràng,Gout,1,0,1,0.0
+451,Taemin,70,Suy tim,Tiểu đường,4,1,4,1.0
+452,Marja,61,Suy tim,Huyết áp cao,4,1,4,1.0
+453,Leo,82,Tai biến mạch máu não,Thoái hóa khớp,2,1,2,1.0
+454,Nha Trang,79,Viêm cơ tim,Huyết áp cao,2,1,2,1.0
+455,Susan,69,Hở van tim,Đau dạ dày,3,1,3,1.0
+456,Robert,77,Giãn tĩnh mạch,Hen phế quản,4,0,4,1.0
+457,Hoang Van E,54,Trào ngược dạ dày,Hen phế quản,1,0,1,0.0
+458,Annette,59,Hở van tim,Ho,4,1,4,1.0
+459,Tran Long,72,Trào ngược dạ dày,Đái tháo đường,1,0,1,0.0
+460,Texas,76,Ung thư dạ dày,Hen phế quản,1,1,1,1.0
+461,Kitano,49,Xơ vữa động mạch,Đau nửa đầu,3,1,3,1.0
+462,Yellow,78,Suy tim,Viêm xoang,5,1,5,1.0
+463,Nghe An,82,Ung thư đại tràng,Đái tháo đường,1,1,1,1.0
+464,Dam Vinh,45,Ung thư đại tràng,Đau dạ dày,4,1,4,1.0
+465,Mina ,55,Trĩ,Đau dạ dày,4,1,4,1.0
+466,Carlo,64,Tai biến mạch máu não,Đái tháo đường,5,1,5,1.0
+467,Black,80,Viêm gan,Đái tháo đường,5,1,5,1.0
+468,Krixi,60,Xơ vữa động mạch,Hen phế quản,1,1,1,1.0
+469,Chen Hao,51,Giãn tĩnh mạch,Viêm mũi dị ứng,2,0,2,0.0
+470,Ngo Thi H,67,Tai biến mạch máu não,Tiểu đường,3,1,3,1.0
+471,Florentino,80,Giãn tĩnh mạch,Huyết áp cao,4,0,4,1.0
+472,Lang Son,78,Động mạch vành,Huyết áp cao,1,1,1,1.0
+473,Ederson,55,Giãn tĩnh mạch,Viêm mũi dị ứng,4,1,4,1.0
+474,Erling,50,Viêm gan,Gout,1,1,1,1.0
+475,Blue,77,Viêm dạ dày,Đau nửa đầu,4,0,4,1.0
+476,Mitchell,44,Viêm đại tràng,Đau dạ dày,5,1,5,1.0
+477,Daniel,45,Suy tim,Viêm xoang,5,1,5,1.0
+478,Chen Hao,51,Hở van tim,Viêm mũi dị ứng,1,0,1,0.0
+479,Bon,67,Polyp đại tràng,Không,2,0,2,0.0
+480,Charles,41,Nhồi máu cơ tim,Hen phế quản,4,1,4,1.0
+481,Nguyen Han,45,Ung thư gan,Gout,1,1,1,1.0
+482,Nguyen Hoang,70,Xơ vữa động mạch,Viêm xoang,2,1,2,1.0
+483,Alice,49,Xơ vữa động mạch,Viêm mũi dị ứng,5,1,5,1.0
+484,Li Ming,50,Hở van tim,Đau dạ dày,4,1,4,1.0
+485,Nguyen Quoc,47,Rối loạn tiêu hóa,Thoái hóa khớp,2,0,2,0.0
+486,Yuna,72,Polyp đại tràng,Đau dạ dày,4,0,4,1.0
+487,Sizuka,63,Trào ngược dạ dày,Tiểu đường,1,1,1,1.0
+488,Carlo,64,Nhồi máu cơ tim,Đái tháo đường,3,1,3,1.0
+489,Kitano,49,Hở van tim,Đau nửa đầu,5,1,5,1.0
+490,Phillip,43,Suy tim,Tiểu đường,2,1,2,1.0
+491,Nakamura,55,Nhồi máu cơ tim,Xơ gan,5,1,5,1.0
+492,Tran Long,72,Động mạch vành,Đái tháo đường,3,1,3,1.0
+493,Hinata,56,Viêm đại tràng,Xơ gan,1,0,1,0.0
+494,Phil,48,Giãn tĩnh mạch,Viêm xoang,1,0,1,0.0
+495,Victor,66,Polyp đại tràng,Không,5,1,5,1.0
+496,Shenzhen,62,Viêm gan,Xơ gan,4,1,4,1.0
+497,Do Minh ,82,Viêm đại tràng,Hen phế quản,2,0,2,0.0
+498,Thomas,80,Trào ngược dạ dày,Đau nửa đầu,2,0,2,0.0
+499,Gray,83,Suy tim,Ho,4,1,4,1.0
+500,Hoang Thu,55,Thiếu máu,Đau nửa đầu,1,1,1,1.0
+501,Yellow,78,Động mạch vành,Đái tháo đường,2,1,2,1.0
+502,Nguyen Quoc,47,Viêm đại tràng,Thoái hóa khớp,2,0,2,0.0
+503,Suho,68,Ung thư đại tràng,Tiểu đường,1,1,1,1.0
+504,Mark,78,Thiếu máu,Đau nửa đầu,4,0,4,1.0
+505,Lily,76,Suy tim,Huyết áp cao,2,1,2,1.0
+506,Ha Giang,59,Giãn tĩnh mạch,Viêm xoang,1,0,1,0.0
+507,David,55,Viêm dạ dày,Đau dạ dày,5,1,5,1.0
+508,Daniel,45,Động mạch vành,Đau nửa đầu,3,1,3,1.0
+509,Sizuka,63,Hở van tim,Không,2,0,2,0.0
+510,Michael,64,Rối loạn nhịp tim,Viêm mũi dị ứng,1,0,1,0.0
+511,Natalya,79,Giãn tĩnh mạch,Huyết áp cao,3,1,3,1.0
+512,Phillip,43,Nhồi máu cơ tim,Viêm mũi dị ứng,1,1,1,1.0
+513,Emily,58,Giãn tĩnh mạch,Xơ gan,2,0,2,0.0
+514,Han Dohyun,69,Viêm dạ dày,Viêm mũi dị ứng,2,1,2,1.0
+515,Mikami,50,Rối loạn nhịp tim,Hen phế quản,4,1,4,1.0
+516,Karen,48,Nhồi máu cơ tim,Viêm xoang,3,1,3,1.0
+517,Karen,48,Thiếu máu,Viêm xoang,5,0,5,1.0
+518,Leo,82,Rối loạn nhịp tim,Thoái hóa khớp,1,0,1,0.0
+519,Rin,51,Ung thư dạ dày,Rối loạn lo âu,1,1,1,1.0
+520,Guangzhou,71,Viêm dạ dày,Ho,3,0,3,0.0
+521,Suneo,62,Viêm cơ tim,Viêm mũi dị ứng,2,1,2,1.0
+522,Park Jihoon,68,Viêm đại tràng,Huyết áp cao,1,0,1,0.0
+523,Hayate,56,Viêm cơ tim,Đau nửa đầu,3,1,3,1.0
+524,Timber,49,Trĩ,Đau dạ dày,3,1,3,1.0
+525,Black,80,Rối loạn tiêu hóa,Đái tháo đường,5,1,5,1.0
+526,Sergio,69,Trào ngược dạ dày,Huyết áp cao,4,1,4,1.0
+527,Wu Lei,62,Viêm cơ tim,Không,2,1,2,1.0
+528,Wu Xi,66,Viêm cơ tim,Không,1,1,1,1.0
+529,Vo Kim,80,Viêm gan,Tiểu đường,5,1,5,1.0
+530,Tran Nhu,55,Ung thư dạ dày,Huyết áp cao,5,1,5,1.0
+531,William,66,Ung thư dạ dày,Tiểu đường,1,1,1,1.0
+532,Yu Dabao,53,Ung thư dạ dày,Đái tháo đường,4,1,4,1.0
+533,Brandon,70,Polyp đại tràng,Không,4,1,4,1.0
+534,Vuong Tuan,46,Động mạch vành,Đau nửa đầu,3,0,3,0.0
+535,Hayate,56,Thiếu máu,Đau nửa đầu,1,0,1,0.0
+536,Lee Seojin,76,Viêm gan,Tiểu đường,4,1,4,1.0
+537,Iggy,70,Nhồi máu cơ tim,Tiểu đường,3,1,3,1.0
+538,Alice,49,Suy tim,Viêm mũi dị ứng,3,1,3,1.0
+539,Jennifer,77,Rối loạn tiêu hóa,Đau nửa đầu,1,0,1,0.0
+540,Hoang Thu,55,Suy tim,Đau nửa đầu,2,1,2,1.0
+541,Mark,78,Động mạch vành,Đau nửa đầu,2,1,2,1.0
+542,Wu Xi,66,Hở van tim,Không,1,0,1,0.0
+543,Anthony,54,Trào ngược dạ dày,Xơ gan,5,1,5,1.0
+544,Bui Viet,50,Giãn tĩnh mạch,Rối loạn lo âu,5,0,5,1.0
+545,Fran,64,Xơ vữa động mạch,Xơ gan,2,1,2,1.0
+546,Fran,64,Tai biến mạch máu não,Xơ gan,4,1,4,1.0
+547,Hinata,56,Polyp đại tràng,Xơ gan,3,1,3,1.0
+548,Timber,49,Hở van tim,Đau dạ dày,2,0,2,0.0
+549,Taemin,70,Động mạch vành,Tiểu đường,3,1,3,1.0
+550,Nghe An,82,Viêm đại tràng,Đái tháo đường,1,1,1,1.0
+551,Wang Wei,59,Tai biến mạch máu não,Huyết áp cao,2,1,2,1.0
+552,Robert,77,Trào ngược dạ dày,Đau dạ dày,4,0,4,1.0
+553,Lorenzo,50,Rối loạn nhịp tim,Viêm xoang,4,0,4,1.0
+554,Hyundai,61,Trào ngược dạ dày,Huyết áp cao,2,0,2,0.0
+555,Javier,67,Động mạch vành,Viêm xoang,5,1,5,1.0
+556,Li Lei,64,Nhồi máu cơ tim,Thoái hóa khớp,3,1,3,1.0
+557,Lee Sang Min,72,Viêm đại tràng,Không,2,0,2,0.0
+558,Ngo Thi H,67,Suy tim,Huyết áp cao,1,1,1,1.0
+559,Park Jisoo,74,Trĩ,Tiểu đường,1,0,1,0.0
+560,Ito,53,Trào ngược dạ dày,Xơ gan,1,0,1,0.0
+561,Leo,82,Động mạch vành,Thoái hóa khớp,4,1,4,1.0
+562,Nobita,59,Ung thư dạ dày,Ho,4,1,4,1.0
+563,Xu Xin,65,Rối loạn nhịp tim,Ho,2,0,2,0.0
+564,Ramsey,78,Viêm cơ tim,Đái tháo đường,2,1,2,1.0
+565,Patrik,50,Nhồi máu cơ tim,Viêm mũi dị ứng,4,1,4,1.0
+566,Nico,77,Nhồi máu cơ tim,Đau nửa đầu,4,1,4,1.0
+567,Gordon,79,Suy tim,Đái tháo đường,3,1,3,1.0
+568,Ederson,55,Ung thư đại tràng,Viêm mũi dị ứng,1,1,1,1.0
+569,Li Na,54,Trào ngược dạ dày,Rối loạn lo âu,1,0,1,0.0
+570,Fang Hao,61,Rối loạn nhịp tim,Xơ gan,5,1,5,1.0
+571,Pham Van,53,Ung thư dạ dày,Đau dạ dày,3,1,3,1.0
+572,Sizuka,63,Động mạch vành,Xơ gan,4,1,4,1.0
+573,Tran Nhu,55,Ung thư gan,Gout,5,0,5,1.0
+574,Blue,77,Ung thư đại tràng,Đau nửa đầu,1,1,1,1.0
+575,Hoang Van E,54,Ung thư dạ dày,Hen phế quản,5,1,5,1.0
+576,Fang Hao,61,Polyp đại tràng,Xơ gan,1,0,1,0.0
+577,Victor,66,Ung thư đại tràng,Không,1,1,1,1.0
+578,Phil,48,Viêm cơ tim,Huyết áp cao,1,1,1,1.0
+579,Fang Hao,61,Viêm dạ dày,Xơ gan,4,1,4,1.0
+580,Iggy,70,Suy tim,Tiểu đường,4,1,4,1.0
+581,Lotteria,65,Nhồi máu cơ tim,Thoái hóa khớp,1,1,1,1.0
+582,Thomas,80,Ung thư gan,Đau nửa đầu,1,1,1,1.0
+583,Khoa Khoa,80,Suy tim,Tiểu đường,5,1,5,1.0
+584,Nhu Kha,71,Xơ vữa động mạch,Không,4,1,4,1.0
+585,Nguyen Van A,42,Viêm gan,Viêm xoang,4,1,4,1.0
+586,Matthew,43,Nhồi máu cơ tim,Ho,3,0,3,0.0
+587,Florentino,80,Rối loạn nhịp tim,Thoái hóa khớp,1,0,1,0.0
+588,Wu Xi,66,Xơ vữa động mạch,Không,1,1,1,1.0
+589,Myra,74,Rối loạn nhịp tim,Hen phế quản,5,1,5,1.0
+590,Dam Vinh,45,Polyp đại tràng,Đau dạ dày,3,0,3,0.0
+591,Gordon,79,Nhồi máu cơ tim,Đái tháo đường,4,1,4,1.0
+592,Aoi,57,Hở van tim,Gout,2,1,2,1.0
+593,White,79,Polyp đại tràng,Không,2,0,2,0.0
+594,Carlo,64,Suy tim,Đái tháo đường,4,1,4,1.0
+595,Diego,65,Ung thư gan,Không,5,1,5,1.0
+596,Brandon,70,Ung thư gan,Đau dạ dày,1,1,1,1.0
+597,Annette,59,Viêm cơ tim,Ho,5,1,5,1.0
+598,Pablo,68,Rối loạn nhịp tim,Gout,3,0,3,0.0
+599,Guangzhou,71,Rối loạn tiêu hóa,Ho,5,0,5,1.0
+600,Do Thi,54,Viêm dạ dày,Không,2,0,2,0.0
+601,Sadio,45,Trĩ,Đái tháo đường,5,1,5,1.0
+602,Nha Trang,79,Tai biến mạch máu não,Huyết áp cao,1,1,1,1.0
+603,Ito,53,Viêm gan,Xơ gan,5,1,5,1.0
+604,Purple,81,Viêm đại tràng,Hen phế quản,3,0,3,0.0
+605,Emily,58,Viêm gan,Hen phế quản,1,0,1,0.0
+606,Nguyen Van A,42,Thiếu máu,Viêm xoang,1,0,1,0.0
+607,Sarah,75,Viêm đại tràng,Đau nửa đầu,1,0,1,0.0
+608,Taemin,70,Rối loạn tiêu hóa,Tiểu đường,4,0,4,1.0
+609,Le Thi B,71,Viêm gan,Xơ gan,1,0,1,0.0
+610,Anthony,54,Ung thư gan,Xơ gan,3,1,3,1.0
+611,Samsung,62,Trĩ,Tiểu đường,2,0,2,0.0
+612,Rouie,58,Hở van tim,Đái tháo đường,3,0,3,0.0
+613,Jollibee,58,Ung thư dạ dày,Viêm mũi dị ứng,2,1,2,1.0
+614,Choi Seung Min,70,Hở van tim,Thoái hóa khớp,5,1,5,1.0
+615,Tokyo,80,Viêm gan,Huyết áp cao,3,1,3,1.0
+616,Vuong Tuan,46,Tai biến mạch máu não,Đau nửa đầu,3,1,3,1.0
+617,Mikami,50,Trào ngược dạ dày,Hen phế quản,3,0,3,0.0
+618,Bin,72,Suy tim,Đái tháo đường,3,1,3,1.0
+619,Shin,64,Tai biến mạch máu não,Huyết áp cao,1,1,1,1.0
+620,Lorenzo,50,Động mạch vành,Viêm mũi dị ứng,3,1,3,1.0
+621,Ricardo,49,Trĩ,Thoái hóa khớp,4,1,4,1.0
+622,Ninh Binh,56,Động mạch vành,Rối loạn lo âu,3,0,3,0.0
+623,Elisa,79,Giãn tĩnh mạch,Đau dạ dày,5,1,5,1.0
+624,Kitano,49,Nhồi máu cơ tim,Đau nửa đầu,2,1,2,1.0
+625,Li Ming,50,Suy tim,Đau dạ dày,3,1,3,1.0
+626,Ha Giang,59,Suy tim,Viêm xoang,5,1,5,1.0
+627,Liu Yang,52,Hở van tim,Thoái hóa khớp,3,0,3,0.0
+628,Johnson,45,Polyp đại tràng,Rối loạn lo âu,1,0,1,0.0
+629,Shanghai,57,Trĩ,Đau nửa đầu,5,0,5,1.0
+630,Erling,50,Trào ngược dạ dày,Gout,5,0,5,1.0
+631,Minamino,52,Ung thư gan,Đái tháo đường,5,1,5,1.0
+632,Black,80,Ung thư gan,Đái tháo đường,5,1,5,1.0
+633,Naruto,66,Tai biến mạch máu não,Tiểu đường,1,1,1,1.0
+634,Purple,81,Polyp đại tràng,Hen phế quản,5,1,5,1.0
+635,Ruiz,58,Xơ vữa động mạch,Đau dạ dày,3,0,3,0.0
+636,Li Ming,50,Xơ vữa động mạch,Đau dạ dày,4,1,4,1.0
+637,Vo Thi F,60,Động mạch vành,Ho,5,0,5,1.0
+638,Lim Nari,75,Viêm gan,Xơ gan,4,1,4,1.0
+639,Nguyen C,65,Suy tim,Không,0,1,0,1.0
+640,NguyenC,65,suy tim,không,0,1,0,1.0
+641,ndhcb,65,Suy tim,không,0,1,0,1.0
+642,hạn vũ,40,đau ruột thừa,không,0,1,0,1.0
+643,hân,40,gai cột sống,không,0,1,0,1.0
+644,lý,40,gai cột sống,không,0,1,0,1.0
+645,khý,50,trĩ,không,1,0,1,0.0
+646,an,69,đau tin,không,1,2,1,0.0
+647,lan,69,đau tin,không,1,1,1,1.0
+648,khan,69,đau tim,không,0,1,0,1.0
+649,Tên Lan,65,tiểu đường,cao huyết áp,1,1,1,1.0
+650,Kan,65,thoát vị đĩa đệm,cao huyết áp,1,1,1,1.0
+651,Khôi,2,đau dạ dày,không,0,1,0,1.0
+652,Tên Simon,51,Không rõ,hen phế quản,0,0,0,0.0
+653,Có Id Là,50,Không rõ,không,0,0,1,
